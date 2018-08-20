@@ -1,2 +1,3 @@
-# leaving-well-monitor
-A display that shows a summary of the leaving well project (e.g. users, activity, etc) for use on a wall-mounted display
+# Leaving Well Monitor
+
+This is a simple react-based app that shows the status of the leaving well project.

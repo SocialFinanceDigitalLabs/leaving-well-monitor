@@ -1,0 +1,23 @@
+[
+	{
+		LAName: "Southampton",
+		YP_Users: 50,
+		PA_Users: 15,
+		PAM_Users: 2,
+		Admin_users: 1
+	},
+	{
+		LAName: "Havering",
+		YP_Users: 30,
+		PA_Users: 10,
+		PAM_Users: 1,
+		Admin_users: 1
+	},
+	{
+		LAName: "Leeds",
+		YP_Users: 100,
+		PA_Users: 30,
+		PAM_Users: 5,
+		Admin_users: 2
+	}	
+]
