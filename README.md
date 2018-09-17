@@ -1,3 +1,3 @@
 # Leaving Well Monitor
 
-This is a simple react-based app that shows the status of the leaving well project.
+This is a simple react-based app that shows the status given a set of data.  I used this to help me learn React.
